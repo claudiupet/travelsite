@@ -1,2 +1,2 @@
 # travelsite
-Find someone to travel website
+Find someone to travel with - website
